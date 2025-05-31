@@ -4,6 +4,12 @@
 
 ---
 
+![Retrieve Password](https://github.com/Croissanton/CPlusPass/blob/main/images/RetrievePassword.png)
+
+![Store Password](https://github.com/Croissanton/CPlusPass/blob/main/images/StorePassword.png)
+
+---
+
 ## Features
 
 * **Master Passphrase**: Derives a strong 256-bit encryption key from your master passphrase using Argon2id (memory-hard KDF).
